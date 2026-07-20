@@ -6,7 +6,9 @@ See the previous TOBS Workshop at [2025 TOBS workshop website](https://sites.goo
 
 Please find more details of this event at [2026 TOBS workshop website](https://sites.google.com/kunglab-nckupsy.org/open-brain-science-2026/homepage?authuser=0)
 
-This year we open to poster submission, click [the submission link](https://docs.google.com/forms/d/e/1FAIpQLScIO8kB3yB17XbqxKfYVMlLIC4dPSQwbFo_mtoRxUUfBTmAKQ/viewform) to share your latest research. The submission is due on Due: Aug 15, 2026 (Sat). 
+This year we open to poster submission, click [the submission link](https://docs.google.com/forms/d/e/1FAIpQLScIO8kB3yB17XbqxKfYVMlLIC4dPSQwbFo_mtoRxUUfBTmAKQ/viewform) to share your latest research.
+
+The submission is due on Due: Aug 15, 2026 (Sat). 
 
 > *This event is hosted by the Department of Psychology and the Mind Research and Imaging (MRI) center, National Cheng Kung University (NCKU), in collaboration with the OHBM Open Science Special Interest Group (OS-SIG) and the Open Science Room (OSR).*
 > 
