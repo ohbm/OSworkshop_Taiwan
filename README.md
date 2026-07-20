@@ -6,7 +6,7 @@ See the previous TOBS Workshop at [2025 TOBS workshop website](https://sites.goo
 
 Please find more details of this event at [2026 TOBS workshop website](https://sites.google.com/kunglab-nckupsy.org/open-brain-science-2026/homepage?authuser=0)
 
-> *This event is hosted by the Graduate Institute of Mind, Brain and Consciousness (GIMBC), Taipei Medical University, in collaboration with the OHBM Open Science Special Interest Group (OS-SIG) and the Open Science Room (OSR).*
+> *This event is hosted by the Department of Psychology and the Mind Research and Imaging (MRI) center, National Cheng Kung University (NCKU), in collaboration with the OHBM Open Science Special Interest Group (OS-SIG) and the Open Science Room (OSR).*
 > 
 > *This event is sponsored by the National Science and Technology Council of Taiwan.*
 
