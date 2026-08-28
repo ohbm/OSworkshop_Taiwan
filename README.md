@@ -18,7 +18,9 @@ Please [open an issue with the BrainHack project template](https://github.com/oh
 ## BrainHack Tracks
 
 **Track 1 (Bosses):** Pre-submitted projects; seek collaboration.
+
 **Track 2 (Entrepreneurs):** Onsite pitches; seek team support.
+
 **Track 3 (Explorers):** New to open science; tutorial-led learning.
 
 
