@@ -1,4 +1,4 @@
-# The 2026 Taiwan Open Brain Science Workshop /n      第二屆台灣開放腦科學工作坊
+# The 2026 Taiwan Open Brain Science Workshop\n      第二屆台灣開放腦科學工作坊
 
 This GitHub repository is to host hacktrack projects for the one-day BrainHack tryout of this workshop. The main goal of this workshop is to introduce Open Science, including BrainHack, to the science community in Taiwan and to promote OS practices and ideas.
 This event stemmed from the *Open Science in Asia/Korea* panel discussion hosted by the OSR at OHBM 2024 in Seoul and has hosted its inaugural Open Brain Science Workshop in Taiwan. 
